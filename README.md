@@ -1,46 +1,43 @@
-# social-media-dashboard
+# Frontend Intern Assignment of Ami Parekh
 
-This template should help get you started developing with Vue 3 in Vite.
+## Description
 
-## Recommended IDE Setup
+This project aims to create a responsive web design based on a provided Figma file. The design will be implemented using Vue.js for the frontend logic and Tailwind CSS for styling. Upon completion, the project will be deployed to either Vercel or Netlify for hosting.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Technologies Used
 
-## Type Support for `.vue` Imports in TS
+- Vue.js
+- Tailwind CSS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+## Features
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- Responsive web design implementation
+- Utilization of Vue.js for frontend logic
+- Styling with Tailwind CSS
+- Deployment to either Vercel or Netlify for hosting
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+## Getting Started
 
-## Customize configuration
+To get started with the project, follow these steps:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clone the repository:
+   git clone gh repo clone parekh-amee/nirvana-lab-assignment
+2. Navigate to the project directory:
+   cd nirvana-lab-assignment
+3. Install dependencies:
+   npm install
+4. Run the development server:
+   npm run serve
+5. Open your browser and navigate to `http://localhost:8080` to view the project.
 
-## Project Setup
+## Deployment
 
-```sh
-npm install
-```
+The project will be deployed to either Vercel or Netlify for hosting. Once deployed, you can access the live version of the project at the provided deployment URL.
 
-### Compile and Hot-Reload for Development
+## Contributors
 
-```sh
-npm run dev
-```
+- Ami Parekh(https://github.com/parekh-amee)
 
-### Type-Check, Compile and Minify for Production
+## License
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
